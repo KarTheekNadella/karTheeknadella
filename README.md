@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KarTheekNadella
+- 👋 Hi, I’m @KartheekNadella
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Web Development projects
 - 📫 Reach me karthiknaa1@gmail.com
